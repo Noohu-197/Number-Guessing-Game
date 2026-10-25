@@ -156,7 +156,7 @@ function App() {
           </div>
 
           <h1>
-            Noohu <span>Guessing</span> Game
+            Noohu's <span>Guessing</span> Game
           </h1>
 
           <p>Guess the number between 1 and 100!</p>
